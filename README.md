@@ -1,6 +1,6 @@
 # Creator Score MiniApp
 
-A Farcaster Frame MiniApp that shows creator scores, leaderboards, and rewards.
+A Farcaster MiniApp that shows creator scores, leaderboards, and rewards.
 
 ## Features
 
